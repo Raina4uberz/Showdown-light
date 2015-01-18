@@ -15,13 +15,6 @@ exports.Formats = [
 	},
 	
 	{
-		name: "Skillmons Randoms",
-		section: "Light",
-		mod: "skillmons",
-		team: 'random',
-		ruleset: ['PotD', 'Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
-	},
-	{
 		name: "Unrated Random Battle",
 		section: "ORAS Singles",
 
@@ -42,6 +35,13 @@ exports.Formats = [
 		section: "Light",
 		mod: 'drasticshift',
 		ruleset: ['OU']
+	},
+        {
+		name: "Skillmons Random Battle",
+		section: "Light",
+		mod: "skillmons",
+		team: 'random',
+		ruleset: ['PotD', 'Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
 	},
 	{
 		name: "Ubers",
