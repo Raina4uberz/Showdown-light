@@ -27,7 +27,7 @@ exports.Formats = [
 		section: "Light"
 		team: 'random',
 		mod: 'skillmons',
-		ruleset: ['PotD', 'Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
+		ruleset: ['Pokemon', 'Sleep Clause Mod', 'Exact HP Mod']
 	},
 	{
 		name: "OU",
