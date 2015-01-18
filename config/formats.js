@@ -23,11 +23,11 @@ exports.Formats = [
 		ruleset: ['PotD', 'Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
 	},
 	{
-		name: "Skillmons Random"
-		section: "Light"
-		team: 'random',
+		name: "Skillmons OU"
+		section: "Skillmons"
 		mod: 'skillmons',
-		ruleset: ['Pokemon', 'Sleep Clause Mod', 'Exact HP Mod']
+		ruleset: ['Pokemon', 'Team Preview', 'Sleep Clause Mod', 'Species Clause', 'Endless Battle Clause', 'Exact HP Mod'],
+		banlist: ['Unreleased', 'Illegal', 'Uber', 'Soul Dew']
 	},
 	{
 		name: "OU",
