@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<script>
+var suffix = (document.location.port != '8000' ? '-' + (document.location.port || '80') : '');
+document.location.replace('http://peaceful-sands-3508.herokuapp.com-80.psim.us/');
+</script>
+<p>This is a <a href="http://www.pokemonshowdown.com">Pokemon Showdown</a> server!</p>
+<noscript><p>Try enabling JavaScript to play!</p></noscript>
