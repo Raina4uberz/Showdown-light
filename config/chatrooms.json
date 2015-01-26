@@ -1,5 +1,5 @@
 [
 {"title":"Lobby","isOfficial":true,"autojoin":true,"desc":"Welcome to Light!","toursEnabled":true,"introMessage":"<center><img src=\"http://images.forwallpaper.com/files/thumbs/preview/36/364547__snivy-and-serperior_p.jpg\" width=\"500\"height=\"500\"></center><center><b><marquee>Welcome to Light!</b></center></marquee>"},
-{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true}
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true},
 {"title":"Français","isOfficial":true,"autojoin":true,"desc":"Bienvenue dans Light ! Room FR :D","toursEnabled":true,"introMessage":"<center><img src=\"http://images.forwallpaper.com/files/thumbs/preview/36/364547__snivy-and-serperior_p.jpg\" width=\"500\"height=\"500\"></center><center><b>Bienvenue dans le serveur Light ! Ici, Français !</b></center>"}
 ]
